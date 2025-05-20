@@ -19,7 +19,7 @@ Each day brings new opportunities to explore the power of numbers, whether it’
 - Laboratory Teaching Assistant of Introduction to Data Mining  
 - Assistant Lecturer of Discrete Mathematics and Combinatorics  
 
-> Being part of the academic environment has helped me grow not only as a student, but also as a mentor. Helping others understand complex concepts is a great way to strengthen my own understanding too!
+> Being part of the academic environment has helped me grow not only as a student, but also as a person. Helping others understand complex concepts is a great way to strengthen my own understanding too!
 
 ---
 
@@ -49,15 +49,15 @@ Each day brings new opportunities to explore the power of numbers, whether it’
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirfah-username&show_icons=true&theme=rose_pine&hide_title=true" alt="Mirfah's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Miwfah08&show_icons=true&theme=rose_pine&hide_title=true" alt="Mirfah's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirfah-username&theme=rose_pine" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwfah08&theme=rose_pine" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirfah-username&layout=compact&theme=rose_pine" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miwfah08&layout=compact&theme=rose_pine" alt="Top Langs" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ Each day brings new opportunities to explore the power of numbers, whether it’
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mirfah-username&theme=rose_pine" alt="Mirfah's github activity graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Miwfah08&theme=rose_pine" alt="Mirfah's github activity graph" />
 </p>
 
 ---
