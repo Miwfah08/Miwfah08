@@ -7,8 +7,6 @@ As a third-year Bachelor student majoring in Statistics at the Faculty of Mathem
 
 Each day brings new opportunities to explore the power of numbers, whether it’s in the classroom, during a research project, or just playing around with some messy datasets. I genuinely enjoy solving problems with data — even when it means wrestling with a stubborn model that won’t converge 😅
 
----
-
 ## 💼 Career Journey
 
 ### 🧑‍🏫 Teaching & Laboratory Assistant  
@@ -21,8 +19,6 @@ Each day brings new opportunities to explore the power of numbers, whether it’
 
 > Being part of the academic environment has helped me grow not only as a student, but also as a person. Helping others understand complex concepts is a great way to strengthen my own understanding too!
 
----
-
 ### 🏥 Membership Intern  
 **BPJS Kesehatan**  
 📍 Sleman, Yogyakarta, Indonesia | 🕒 Jul 2024 – Aug 2024  
@@ -31,7 +27,6 @@ Each day brings new opportunities to explore the power of numbers, whether it’
 
 > This internship gave me a glimpse of how large-scale public health data systems work — and just how powerful clean, well-managed data can be in helping organizations serve the public better.
 
----
 
 ## ⚡️ Where to Find Me
 
@@ -44,7 +39,6 @@ Each day brings new opportunities to explore the power of numbers, whether it’
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -60,7 +54,6 @@ Each day brings new opportunities to explore the power of numbers, whether it’
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miwfah08&layout=compact&theme=rose_pine" alt="Top Langs" />
 </p>
 
----
 
 ## 📈 Contribution Graph
 
