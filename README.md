@@ -3,7 +3,7 @@
 ## 🌸 About Me
 
 Hey there! I'm Aulia Mirfah Setyo Ayu Damayanti — but feel free to call me Mirfah 😊  
-As a third-year Bachelor student majoring in Statistics at the Faculty of Mathematics and Natural Sciences, Universitas Gadjah Mada, I'm deeply passionate about uncovering insights from data and turning them into meaningful decisions.
+As a third-year Bachelor student majoring in Statistics at the Faculty of Mathematics and Natural Sciences, Universitas Gadjah Mada, I'm deeply passionate about uncovering insights from data and turning them into meaningful decisions. When I’m not diving into data, you’ll find me jamming to music to recharge (🤫).
 
 Each day brings new opportunities to explore the power of numbers, whether it’s in the classroom, during a research project, or just playing around with some messy datasets. I genuinely enjoy solving problems with data — even when it means wrestling with a stubborn model that won’t converge 😅
 
