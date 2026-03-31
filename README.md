@@ -75,7 +75,7 @@ When I’m not diving into data, you’ll find me jamming to music to recharge (
 ## 📄 My Resume
 
 📌 You can view my CV here:  
-[Download CV](YOUR_LINK_HERE)
+[Download CV](https://drive.google.com/file/d/1twFrL97b1o6b4qfUWPnhVfgNviyNtGD7/view?usp=sharing)
 
 ---
 
