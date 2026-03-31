@@ -93,12 +93,7 @@ I enjoy working on real-world problems — especially when it involves anomaly d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miwfah08&show_icons=true&theme=rose_pine&hide_title=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwfah08&theme=rose_pine" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miwfah08&layout=compact&theme=rose_pine" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwfah08&theme=rose_pine" />
 </p>
 
 ---
