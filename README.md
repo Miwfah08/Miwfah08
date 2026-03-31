@@ -6,9 +6,7 @@ Hey there! I'm Aulia Mirfah Setyo Ayu Damayanti — but you can call me Mirfah �
 
 I’m a fresh graduate in Statistics from Universitas Gadjah Mada (Class of 2022), with a strong passion for data science, machine learning, and turning messy data into meaningful insights.  
 
-I enjoy working on real-world problems — especially when it involves anomaly detection, fraud detection, and building models that actually make an impact. Whether it’s experimenting with new algorithms or debugging models that refuse to behave (😅), I genuinely love the process of learning through data.  
-
-When I’m not diving into data, you’ll find me jamming to music to recharge (🤫).
+I enjoy working on real-world problems — especially when it involves anomaly detection, fraud detection, and building models that actually make an impact. Whether it’s experimenting with new algorithms or debugging models that refuse to behave (😅), I genuinely love the process of learning through data. When I’m not diving into data, you’ll find me jamming to music to recharge (🤫).
 
 ---
 
@@ -95,15 +93,12 @@ When I’m not diving into data, you’ll find me jamming to music to recharge (
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miwfah08&show_icons=true&theme=rose_pine&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Miwfah08&show_icons=true&theme=rose_pine&hide_title=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwfah08&theme=rose_pine" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwfah08&theme=rose_pine" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miwfah08&layout=compact&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miwfah08&layout=compact&theme=rose_pine" height="150"/>
 </p>
 
 ---
@@ -111,7 +106,7 @@ When I’m not diving into data, you’ll find me jamming to music to recharge (
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Miwfah08&theme=rose_pine" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miwfah08&theme=rose_pine" />
 </p>
 
 ---
